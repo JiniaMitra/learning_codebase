@@ -1,0 +1,11 @@
+<context>
+<Resource name="dataSource"
+ global="dataSource" 
+      auth="Container" 
+type="javax.sql.DataSource"
+driverClassName="com.mysql.cj.jdbc.Driver"
+url="jdbc:mysql://localhost:3306/studyeasy_db"
+username="root"
+password="system123"></Resource>
+
+</context>
