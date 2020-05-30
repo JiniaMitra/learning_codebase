@@ -2,7 +2,7 @@
     <wb-module deploy-name="headerfooter">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="headerfooter"/>
         <property name="java-output-path" value="/headerfooter/build/classes"/>
+        <property name="context-root" value="crudproject"/>
     </wb-module>
 </project-modules>
